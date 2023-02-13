@@ -19,7 +19,7 @@ In my free time I like to trade stocks and play basketball. CSCI-UA 480 Student,
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /weekly/images/github_pic.jpg 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -47,19 +47,19 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # CUSTOMIZE
-# Your website URL (e.g. https://ossd-s23.github.io/weekly )
+# Your website URL (e.g. https://ossd-s23.github.io/zrg228-weekly )
 # Replace the last part by the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s23.github.io/weekly"
+url: "https://ossd-s23.github.io/zrg228-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/zrg228-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
