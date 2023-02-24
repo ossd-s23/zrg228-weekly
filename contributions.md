@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-| Feb 24    |  [Wikipedia change] (https://en.wikipedia.org/w/index.php?title=Hershel_Schachter&oldid=prev&diff=1141349211)   | Wikipedia page about Herschel Schachter    |  I portrayed the information in the document to more accurately describe the information being referenced in the footnote    |
+| Feb 24    |  [Wikipedia change](https://en.wikipedia.org/w/index.php?title=Hershel_Schachter&oldid=prev&diff=1141349211)   | Wikipedia page about Herschel Schachter    |  I portrayed the information in the document to more accurately describe the information being referenced in the footnote    |
 |     |     |     |      |
