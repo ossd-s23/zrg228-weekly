@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | April 3rd| [OpenStreetMaps edit](https://www.openstreetmap.org/note/3625123) |New location information | Marked the spot of a new shop that opened up and included its name and location | 
 | April 3rd | [Classmate post edit](https://github.com/ossd-s23/PrettyAX-weekly/pull/1) | Grammar fix | changed some typos and sentence structure in a weekly post of a classmate and initiated a pull request from my fork |
 | April 11th | [OpenStreetMaps note](https://www.openstreetmap.org/note/3638138) | Add place | Added the K-caf to the map within Weinstein Hall |
+| April 23rd | [Wikipedia edit](https://en.wikipedia.org/w/index.php?title=Asher_Arieli&diff=prev&oldid=1151416366) | Edit | Fixed a broken link in a footnote and corrected outdated information in the page |
